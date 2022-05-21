@@ -10,7 +10,7 @@ namespace OOP_46272_r
 
     class Program
     {
-
+//purvi kurs
 
         //zadacha 1
         public class Customer

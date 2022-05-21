@@ -11,7 +11,7 @@ namespace OOP_46272_r
     class Program
     {
 
-
+//komentar
         //zadacha 1
         public class Customer
         {
